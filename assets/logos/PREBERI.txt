@@ -1,0 +1,13 @@
+LOGOTIPI ZNAMK – TEKOČI TRAK
+
+Sem položite logotipe v obliki SVG (prosojno ozadje). Ime datoteke = ime znamke z malimi črkami:
+
+  bosch.svg  daikin.svg  kronoterm.svg  mitsubishi.svg
+  panasonic.svg  toshiba.svg  viessmann.svg  weishaupt.svg
+
+To je vse – stran jih prikaže sama. Dokler datoteke ni, se na traku izpiše ime znamke.
+
+Nova znamka: dodajte ime v index.html v CONFIG -> brands (npr. "Vaillant")
+in v to mapo datoteko vaillant.svg. Razvrstitev po abecedi in hitrost traku se uredita samodejno.
+
+Logotipe dobite pri proizvajalcu oz. zastopniku (partnerski/medijski portal) skupaj z dovoljenjem za uporabo.
